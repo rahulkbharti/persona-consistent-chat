@@ -11,7 +11,7 @@ from transformers.models.bart.modeling_bart import (
     shift_tokens_right,
 )
 
-from model.memory_loss import MemoryLoss
+from model_paper.memory_loss import MemoryLoss
 
 # Importing Bart Model
 from .BartModel import BartModel

@@ -6,7 +6,7 @@ print(torch.__version__)
 
 from transformers import BartTokenizer
 # from model.modeling_bart import LMEDRModel
-from model.LMEDR import LMEDRModel 
+from model_paper.LMEDR import LMEDRModel 
 data_from = "_original"
 
 # tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
