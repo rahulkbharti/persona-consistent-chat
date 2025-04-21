@@ -6,3 +6,5 @@ __pycache__
 /.DS_Store
 /venv
 /dialouge Generation/Synthetic-Persona-Chat/data
+dialouge Generation/Synthetic-Persona-Chat/prepared_data
+/trained_model
